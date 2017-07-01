@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE catalogue SYSTEM "Blog.dtd"> 
+<!--DOCTYPE name SYSTEM "http://localhost"-->
+
+<catalogue>
+	<texte id="textWelcome">
+			Bienvenu sur le blogue Art Busters
+	</texte>
+	<texte id="textGreetings">
+			Bienvenu
+	</texte>
+	<texte id="textLanguage">
+			langue:
+	</texte>
+	<texte id="textLogin">
+			connectez-vous ici
+	</texte>
+	<texte id="textLogout">
+			Se deconnecter
+	</texte>
+	<texte id="textUsername">
+			Nom d'usager:
+	</texte>
+	<texte id="textPassword">
+			Mot-de-passe:
+	</texte>
+	<texte id="loginValidade">
+			valider
+	</texte>
+	<texte id="ErrorLogin">
+			Mauvaise combinaison username/password
+	</texte>
+	<texte id="ErrorModify">
+			vous n'avez pas la permission de modifier cette article
+	</texte>
+	<texte id="articleCreate">
+			Crée un article
+	</texte>
+	<texte id="articleInsert">
+			Inserer l'article
+	</texte>
+	<texte id="articleDelete">
+			Supprimer cet article
+	</texte>
+	<texte id="articleModify">
+			Modifier cet article
+	</texte>
+	<texte id="textKeyWord">
+			Liste des mots-clé:
+	</texte>
+	<texte id="articleTitle">
+			Titre:
+	</texte>
+	<texte id="articleZone">
+			article ici
+	</texte>
+	<texte id="articlePage">
+			Page des articles
+	</texte>
+	<texte id="articleAutor">
+			Auteur:
+	</texte>
+	<texte id="textModifyForm">
+			Formulaire de modification d'article
+	</texte>
+	<texte id="textCreateForm">
+			Formulaire d'edition d'Article
+	</texte>
+	<texte id="messageArticleInsert_1">
+			vous devez remplir tout les champs d'insertion
+	</texte>
+	<texte id="messageArticleInsert_2">
+			Le nouvelle article a été ajouté au blog
+	</texte>
+	<texte id="messageArticleModify_1">
+			l'article ID
+	</texte>
+	<texte id="messageArticleModify_2">
+			a été modifié avec succes
+	</texte>
+	<texte id="messageKeyWordInsert_1">
+			veuillez entrer un motcles
+	</texte>
+	<texte id="messageKeyWordInsert_2">
+			est dans la base de données. votre Article sera aussi associé à ce mot-clé
+	</texte>
+</catalogue>

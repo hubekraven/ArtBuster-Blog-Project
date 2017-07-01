@@ -1,0 +1,3 @@
+<!ELEMENT catalogue (texte+)>
+<!ELEMENT texte (#PCDATA)>
+<!ATTLIST texte id ID #REQUIRED>

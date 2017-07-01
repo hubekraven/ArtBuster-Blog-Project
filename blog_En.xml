@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE catalogue SYSTEM "Blog.dtd"> 
+<!--DOCTYPE name SYSTEM "http://localhost"-->
+
+<catalogue>
+	<texte id="textWelcome">
+			Welcome to the Art Busters blog
+	</texte>
+	<texte id="textGreetings">
+			Welcome 
+	</texte>
+	<texte id="textLanguage">
+			language:
+	</texte>
+	<texte id="textLogin">
+			login Here
+	</texte>
+	<texte id="textLogout">
+			log out
+	</texte>
+	<texte id="textUsername">
+			Username:
+	</texte>
+	<texte id="textPassword">
+			Password:
+	</texte>
+	<texte id="loginValidade">
+			validate
+	</texte>
+	<texte id="ErrorLogin">
+			Wrong combinaison username/password
+	</texte>
+	<texte id="ErrorModify">
+			You do not have permission to modify this article
+	</texte>
+	<texte id="articleCreate">
+			Create article
+	</texte>
+	<texte id="articleInsert">
+			Insert article
+	</texte>
+	<texte id="articleDelete">
+			delete this article
+	</texte>
+	<texte id="articleModify">
+			Modify this article
+	</texte>
+	<texte id="textKeyWord">
+			Key words List:
+	</texte>
+	<texte id="articleTitle">
+			Title:
+	</texte>
+	<texte id="articleZone">
+			article Here
+	</texte>
+	<texte id="articlePage">
+			Articles page
+	</texte>
+	<texte id="articleAutor">
+			Autor:
+	</texte>
+	<texte id="textModifyForm">
+			Article modification form
+	</texte>
+	<texte id="textCreateForm">
+			Article editing form
+	</texte>
+	<texte id="messageArticleInsert_1">
+			You must fill all fields
+	</texte>
+	<texte id="messageArticleInsert_2">
+			the new article was added to the blog
+	</texte>
+	<texte id="messageArticleModify_1">
+			article 
+	</texte>
+	<texte id="messageArticleModify_2">
+			has been successfully modify
+	</texte>
+	<texte id="messageKeyWordInsert_1">
+			you must enter at least 1 keyword
+	</texte>
+	<texte id="messageKeyWordInsert_2">
+			is allready in the database. Your article will also be linked to this keyword
+	</texte>
+	
+</catalogue>
